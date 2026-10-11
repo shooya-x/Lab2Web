@@ -352,16 +352,3 @@ Menggabungkan semantic HTML, tabel, dan form dalam satu halaman biodata mahasisw
 ![Langkah 9 - Halaman Biodata Mahasiswa](media/screenshots/step9.png)
 
 ---
-
-## Cara Menjalankan
-
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/shooya-x/Lab2Web.git
-   ```
-2. Buka folder `Lab2Web`.
-3. Buka file `index.html`, `biodata.html`, atau `latihan.html` langsung di browser (klik dua kali atau gunakan Live Server di VS Code).
-
-## Kesimpulan
-
-Pada praktikum ini telah dipelajari pembuatan tabel (termasuk `thead`, `tbody`, `tfoot`, dan `colspan`), berbagai elemen form (input, radio, checkbox, select, textarea), validasi form bawaan HTML5, elemen semantic HTML, serta penyisipan multimedia audio dan video.
