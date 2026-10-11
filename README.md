@@ -33,7 +33,7 @@ Membuat tabel data mahasiswa menggunakan tag `<table>`, `<tr>`, `<th>`, dan `<td
 
 **Hasil:**
 
-![Langkah 1 - Tabel Data Mahasiswa](screenshots/step1.png)
+![Langkah 1 - Tabel Data Mahasiswa](media/screenshots/step1.png)
 
 ---
 
@@ -77,7 +77,7 @@ Membuat tabel nilai praktikum yang terstruktur dengan `<caption>`, `<thead>`, `<
 
 **Hasil:**
 
-![Langkah 2 - Tabel Nilai Praktikum](screenshots/step2.png)
+![Langkah 2 - Tabel Nilai Praktikum](media/screenshots/step2.png)
 
 ---
 
@@ -115,7 +115,7 @@ Membuat form registrasi mahasiswa dengan berbagai tipe `<input>`.
 
 **Hasil:**
 
-![Langkah 3 - Form Registrasi Mahasiswa](screenshots/step3.png)
+![Langkah 3 - Form Registrasi Mahasiswa](media/screenshots/step3.png)
 
 ---
 
@@ -148,7 +148,7 @@ Menambahkan pilihan jenis kelamin (radio) dan keahlian (checkbox).
 
 **Hasil:**
 
-![Langkah 4 - Radio Button dan Checkbox](screenshots/step4.png)
+![Langkah 4 - Radio Button dan Checkbox](media/screenshots/step4.png)
 
 ---
 
@@ -176,7 +176,7 @@ Menambahkan dropdown program studi dan kolom alamat multi-baris.
 
 **Hasil:**
 
-![Langkah 5 - Textarea Alamat](screenshots/step5.png)
+![Langkah 5 - Textarea Alamat](media/screenshots/step5.png)
 
 ---
 
@@ -209,7 +209,7 @@ Menambahkan validasi bawaan HTML5 tanpa JavaScript.
 
 **Hasil:**
 
-![Langkah 6 - Form dengan Validasi](screenshots/step6.png)
+![Langkah 6 - Form dengan Validasi](media/screenshots/step6.png)
 
 ---
 
@@ -258,7 +258,7 @@ Membuat halaman Portal Mahasiswa dengan elemen semantik agar struktur halaman je
 
 **Hasil:**
 
-![Langkah 7 - Halaman Portal Mahasiswa](screenshots/step7.png)
+![Langkah 7 - Halaman Portal Mahasiswa](media/screenshots/step7.png)
 
 ---
 
@@ -291,7 +291,7 @@ Menambahkan pemutar audio dan video dari folder `media/`.
 
 **Hasil:**
 
-![Langkah 8 - Audio dan Video](screenshots/step8.png)
+![Langkah 8 - Audio dan Video](media/screenshots/step8.png)
 
 ---
 
@@ -349,7 +349,7 @@ Menggabungkan semantic HTML, tabel, dan form dalam satu halaman biodata mahasisw
 
 **Hasil:**
 
-![Langkah 9 - Halaman Biodata Mahasiswa](screenshots/step9.png)
+![Langkah 9 - Halaman Biodata Mahasiswa](media/screenshots/step9.png)
 
 ---
 
